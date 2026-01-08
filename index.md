@@ -25,6 +25,14 @@ Linux and HPC environments.
 - GitHub: https://github.com/ayyappaswamyeethakota
 - LinkedIn: linkedin.com/in/ayyappa-swamy-ab3834339
 - Email: ayyappaswamyeethakota@gmail.com
+---
+
+## Documentation
+
+👉 **[📘 Installation Docs](installation-docs)**  
+👉 **[🛠 Troubleshooting Docs](troubleshooting-docs)**
+
+---
 
 
 ## Blog Posts
