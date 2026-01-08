@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ayyappa Swamy | HPC & Linux Systems Engineer
+title: Ayyappa Swamy 
 description: HPC & Linux Systems Engineer specializing in large-scale HPC clusters, GPU computing, and data center operations.
 ---
 
