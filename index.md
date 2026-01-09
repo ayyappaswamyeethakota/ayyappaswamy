@@ -9,92 +9,31 @@ description: HPC & Linux Systems Engineer in large-scale HPC clusters and data c
 
 
 ---
+## 👨‍💻 Profile Summary
 
-## 👨‍💻 Professional Summary
+I am an **HPC & Linux Systems Engineer** with **2 years of hands-on experience** supporting **multi-petaflop high-performance computing environments** for **government and research workloads**. I was a **core contributor to India’s 11-Petaflops supercomputing infrastructure**, working on large-scale clusters consisting of **1,200+ compute nodes and NVIDIA H100 GPU accelerators**.
 
-HPC & Linux Systems Engineer with proven experience in deploying and operating **large-scale High-Performance Computing (HPC) environments**. Implemented a **1,341-node HPC cluster** in a secure dark data center (DRDL), handling end-to-end **bare-metal provisioning, BIOS/firmware configuration, OS deployment, and cluster bring-up**.
+My work includes **HPC cluster deployment, GPU-accelerated workloads, and high-speed InfiniBand (400 Gb/s) networking**, along with enterprise Linux system administration. I work extensively with **NVIDIA Bright Cluster Manager, PBS Pro, and Slurm** to manage cluster provisioning, scheduling, monitoring, and health checks.
 
-Served as **Single Point of Contact (SPOC)** between **Dell OEM teams** and DRDL stakeholders. Delivered a production-ready system achieving **13.5 PetaFLOPS**, securing **52nd rank in India’s supercomputing list** based on **HPCC and HPCG benchmarks**.
+I have hands-on experience installing, configuring, and tuning **engineering and CFD applications** such as **ANSYS Fluent, ANSYS CFX, STAR-CCM+, OpenFOAM, SU2, WRF, and ParaView**, ensuring proper MPI integration and stable performance across CPU and GPU nodes. I also build and tune application stacks using **AOCC, AOCL, GCC, OpenMPI, and Intel OneAPI** for performance and compatibility.
 
----
+As part of **24×7 L2 operations**, I handle **incident management, root-cause analysis, system troubleshooting, and hardware integration**, including BIOS, firmware, and driver updates on **Dell PowerEdge servers**. Through **shell scripting and automation**, I have improved deployment efficiency, reduced repetitive administrative tasks, and lowered user-related support issues.
 
-## 🛠 Core Competencies
-
-- HPC Cluster Administration & Operations (CPU / GPU)
-- Dell PowerEdge Servers (R6625, R7625, XE8640, T550)
-- NVIDIA Bright Cluster Manager, PBS Pro, Slurm
-- Linux Systems Administration (RHEL 9.x, CentOS)
-- GPU Computing (NVIDIA H100 Accelerator Nodes)
-- InfiniBand Networking (QM9700 / QM9790 – 400 Gb/s)
-- Performance Benchmarking (HPL, LINPACK, HPCC, HPCG)
-- Shell Scripting & Automation
-- Monitoring & Health Management  
-  *(OME, UFM, Altair Access, BCM Base View)*
-- Incident Management, RCA & 24×7 Operations
+I am focused on building **scalable, reliable, and high-availability HPC environments** that enable scientists and engineers to run demanding workloads efficiently and consistently.
 
 ---
 
-## 🚀 Professional Experience
+### 🔹 Short version (for homepage banner)
 
-### Multi-Petaflops HPC Cluster Deployment & Operations
-
-- Core administrator for a **1,241-node HPC cluster** with **47 GPU accelerator nodes**  
-  *(4× NVIDIA H100 each)* sustaining **11 Petaflops** for national R&D workloads.
-- Deployed and managed full HPC lifecycle using **NVIDIA Bright Cluster Manager**.
-- Administered **400 Gb/s InfiniBand fabric**, improving application throughput and reducing job execution time by **~25%**.
+**HPC & Linux Systems Engineer** with 2 years of experience supporting **11-Petaflops supercomputing systems**, managing **1,200+ nodes with NVIDIA H100 GPUs**, InfiniBand networking, Linux administration, automation, and **24×7 L2 operations** for government and research platforms.
 
 ---
 
-## 🏢 Work Experience
+If you want, I can:
 
-### **TIS Labs Pvt. Ltd., Kolkata**  
-**Linux Systems Administrator & HPC Engineer**  
-*Jan 2024 – Present*
+* Make it **more technical** or **more business-friendly**
+* Convert it to **third-person only**
+* Add a **professional tagline**
+* Align it exactly to **HPC L2 interview expectations**
 
-- Administered large-scale HPC infrastructure supporting government and research workloads with **99.99% uptime**.
-- Automated OS provisioning, user onboarding, package deployment, and environment modules using **shell scripting**.
-- Installed and optimized engineering and scientific applications:
-  - ANSYS Fluent, ANSYS CFX
-  - STAR-CCM+, OpenFOAM, SU2
-  - ParaView, WRF
-- Performed BIOS, firmware, driver, and network upgrades on **Dell PowerEdge platforms**.
-- Delivered **24×7 on-call support**, resolving complex multi-node and GPU-related incidents.
-- Key contributor to **BSNL Datacenter Modernization Project**, managing server installation, networking, and OS deployment.
-
----
-
-## 🎓 Education
-
-**B.Tech – Mechanical Engineering**  
-Akkula Gopayya College of Engineering, JNTUK  
-*2016 – 2020*
-
-**Diploma – Mechanical Engineering**  
-SMVM Polytechnic College, Tanuku  
-*2013 – 2016*
-
-**SSC**  
-ZPPH School, Koderu  
-*2013*
-
----
-
-## 📜 Certifications
-
-- AWS Cloud Practitioner Essentials – 2025
-- AWS Technical Essentials – 2025
-
----
-
-## 🏆 Key Achievements
-
-- Delivered and sustained **11 Petaflops** compute performance.
-- Managed **1,200+ node** mission-critical HPC environments.
-- Reduced user support tickets by **40%** through standardized environment modules.
-- Improved cluster deployment efficiency using **automation and scripting**.
-
----
-
-## 📄 Declaration
-
-I hereby declare that the above information is true to the best of my knowledge and belief.
+Just tell me what you want next 👍
